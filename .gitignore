@@ -1,0 +1,12 @@
+/include/*.mqh
+*.ex4
+*.log
+/config
+/scripts
+/files
+/indicators/mqlcache.dat
+/logs
+/samples
+*.dat
+mqlcache.dat
+/libraries/mqlcache.dat
